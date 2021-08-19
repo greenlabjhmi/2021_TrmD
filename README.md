@@ -1,5 +1,8 @@
 # 2021_TrmD
+
 Analysis of ribosome profiling and RNA-seq data from E. coli cells lacking the tRNA methylase TrmD
+
+See: Loss of N1-Methylation of G37 in tRNA Induces Ribosome Stalling and Reprograms Gene Expression, published in eLife in 2021
 
 Developed by Allen Buskirk using code originally by Fuad Mohammad and Nick Guydosh
 
